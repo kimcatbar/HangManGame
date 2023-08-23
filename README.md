@@ -15,5 +15,6 @@ https://www.sfml-dev.org/
 How to run: 
 1)Download HangMan2 file from this GitHug repo.
 2)Download and install SFML. 
-3)Create a new project and import HangMan2 files. 
-4)Run program and try not to get hanged! 
+3)Configure IDE to support SFML. 
+4)Create a new project and import HangMan2 files. 
+5)Run program and try not to get hanged! 
